@@ -1,0 +1,13 @@
+Registro de transacciones de usuario 2909985647382910:
+
+Fecha y hora de inicio de sesion: 2021-04-03 17:39:04.581718
+Fin de sesion.
+
+Fecha y hora de inicio de sesion: 2021-04-03 17:39:20.699134
+
+Transaccion de sesion #1
+Se recibieron 200.0 BTC con un valor de 11448980.0 USD del emisor Peter
+
+Transaccion de sesion #2
+Se transfirieron 300.0 ETH con un valor de 606993.0 USD al receptor Peter
+Fin de sesion.
