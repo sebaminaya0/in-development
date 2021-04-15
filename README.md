@@ -1,2 +1,4 @@
 # limitedBlastRadiusProjects
-In this repository I keep my data science projects at hand :)
+In this repository I keep my data science projects and tests at hand :)
+
+You can contact me on my LinkedIn here: https://www.linkedin.com/in/sebastian-minaya/
