@@ -1,0 +1,49 @@
+a, h1 {
+    color: red;
+    font-weight: bold;
+  }
+
+img {
+    padding-bottom: 24px;
+    padding-top: 24;
+}
+
+header {
+    padding-bottom: 100px;
+}
+
+.abcd {
+    list-style-type: none;
+}
+
+h1 {
+    padding-bottom: 20px;
+}
+
+h2, h3 {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+body, main {
+    display: flex;
+}
+
+body {
+    flex-direction: column;
+}
+
+main {
+    flex-direction: row;
+    flex: auto;
+}
+
+article {
+    overflow-y: auto;
+    flex: 2;
+}
+
+aside {
+    overflow-y: auto;
+    flex: 1;
+}
